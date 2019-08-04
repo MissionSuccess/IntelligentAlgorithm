@@ -1,4 +1,4 @@
-package com.gx.intelligentalgorithm.IntelligentAlgorithm;
+package com.gx.intelligentalgorithm;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class IntelligentAlgorithmApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(IntelligentAlgorithmApplication.class, args);
+	    SpringApplication.run(IntelligentAlgorithmApplication.class, args);
 	}
 
 }
