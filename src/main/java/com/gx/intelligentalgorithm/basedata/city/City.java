@@ -1,4 +1,4 @@
-package com.gx.intelligentalgorithm.geneticalgorithm;
+package com.gx.intelligentalgorithm.basedata.city;
 
 /**
  * 城市类
